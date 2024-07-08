@@ -9,7 +9,7 @@ const Create = () => {
 
   return (
     <div>
-      <h2 className="my-10">Crud App with JSON Server</h2>
+      <h2 className="my-10">Crud App</h2>
       <Link to="/AddPerson" className="bg-green-500 text-[20px] py-2 px-4 rounded-md mt-5 ">Create +</Link>
       <div className="text-xl font-bold my-10">Name of the person</div>
       <table className="min-w-full bg-white border border-gray-200">
